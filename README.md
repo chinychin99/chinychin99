@@ -1,11 +1,22 @@
-**Hi, I'm Biak!**
+# 👋 Hi, I’m Biak Chin  
 
-I'm a student at Northeastern University studying Computer Science and Business Admin.
+I’m a **Computer Science and Business Administration student at Northeastern University** passionate about combining my technical and communication skills to solve problems in creative ways.  
 
-- I'm still pretty new at coding but I'm always excited to learn
-- I love building fun and useful apps and tools that people can actually use
-- In the future, I hope to explore and build data driven apps
+- 🌱 I’m still fairly new to coding, but I’m always excited to learn, experiment, and grow.  
+- ⚡ I love building **fun yet practical apps** that people can actually use.  
+- 📊 I’m especially interested in **analyzing and organizing data** to uncover insights and drive decisions.  
+- 💡 In the future, I hope to explore **financial modeling** and the intersection of **finance + computer science**.  
 
-Feel free to reach out to me at biaktchin8@gmail.com!
+---
 
+## 🛠️ Languages & Tools  
+- **Programming:** Java, Python, Racket  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Databases:** MySQL  
 
+---
+
+## 📬 Let’s Connect  
+Feel free to reach out!  
+- **Linkedln:** linkedin.com/in/biak-chin-2b3375284
+- **Email:** biaktchin8@gmail.com

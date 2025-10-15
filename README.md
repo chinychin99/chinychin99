@@ -9,9 +9,8 @@ I’m a **Computer Science and Business Administration student at Northeastern U
 
 
 ## 🛠️ Languages & Tools ##  
-- **Programming:** Java, Python, Racket  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** MySQL  
+- **Programming:** Java, Python, Racket, HTML, CSS, JavaScript (React, TypeScript, Node)  
+- **Databases:** MySQL, PostgreSQL
 
 
 ## 📬 Let’s Connect ##

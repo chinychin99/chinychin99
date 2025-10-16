@@ -16,5 +16,5 @@ I’m a **Computer Science and Business Administration student at Northeastern U
 ## 📬 Let’s Connect ##
 Feel free to reach out!  
 - **Email:** biaktchin8@gmail.com
-- **Linkedln:** linkedin.com/in/biak-chin-2b3375284
+- **Linkedln:** linkedin.com/in/biak-chin
 
